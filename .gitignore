@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Express.js logs
+logs/
+*.log
+npm-debug.log*
+
+# MongoDB data directory
+data/
+
+# React build artifacts
+/build/
+
+# Node.js environment file
+.env
+
+# macOS system files
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+*.swp
